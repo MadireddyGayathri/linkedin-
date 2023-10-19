@@ -80,3 +80,7 @@ span{
 .f:hover{
     background-color: blue;
 }
+.display-6{
+    color: rgb(186, 99, 99);
+    font-size: 15px;
+}
